@@ -25,7 +25,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Vitrine de Produto
 - [x] Gerenciamento de Cliente
 - [x] Pedido
-- [ ] Configurar Docker
+- [x] Configurar Docker
 
 ## 💻 Pré-requisitos
 
